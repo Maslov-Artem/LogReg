@@ -16,7 +16,7 @@ def main():
             **Instructions:**
 
             1. **Upload Data:**
-               - Use the "Load data in csv format" button to upload a CSV file containing your data.
+               - Use the "Upload your dataset in CSV format" button to upload a CSV file containing your data.
 
             2. **Feature Weights:**
                - After uploading your data, the app will perform logistic regression and display the weights associated with each feature.
